@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1575431173 source:c:\users\sergio ruiz\documents\6to\act_pila_edd2\src\pilas.cpp
+	"PilaS.h"
+
+1575429252 c:\users\sergio ruiz\documents\6to\act_pila_edd2\include\pilas.h
+	<iostream>
+
+1575429292 source:c:\users\sergio ruiz\documents\6to\act_pila_edd2\main.cpp
+	<iostream>
+	"PilaS.h"
+	<stdlib.h>
+
+1575433240 source:c:\users\sergio ruiz\documents\6to\act_pila_edd2\src\pilad.cpp
+	"PilaD.h"
+
+1575433262 c:\users\sergio ruiz\documents\6to\act_pila_edd2\include\pilad.h
+	<iostream>
+
